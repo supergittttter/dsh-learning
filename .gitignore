@@ -1,0 +1,9 @@
+# dependencies (dev-only copy, see 第二课 "实战踩坑")
+node_modules/
+
+# python
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
